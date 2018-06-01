@@ -88,7 +88,7 @@
     </rect>
    </property>
    <property name="text">
-    <string>localhost</string>
+    <string>192.168.178.112</string>
    </property>
   </widget>
   <widget class="QLineEdit" name="topic">
@@ -101,7 +101,7 @@
     </rect>
    </property>
    <property name="text">
-    <string>/cc3200/ToggleLEDCmdJSON</string>
+    <string>/rpi/ejemplosub</string>
    </property>
   </widget>
   <widget class="QPushButton" name="pushButton_2">
